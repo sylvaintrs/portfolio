@@ -80,7 +80,7 @@ p {
       -ms-flex-align: start;
           align-items: flex-start;
   border-radius: 2rem;
-  background: no-repeat url("./img/test-2.jpg");
+  background: no-repeat url("./img/hero-background.jpg");
   background-size: cover;
   background-position-y: center;
 }
