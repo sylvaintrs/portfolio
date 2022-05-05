@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cec3bd5.css",
-    "main.js": "/static/js/main.dbd653dc.js",
-    "static/media/hero-background.jpg": "/static/media/hero-background.9430d563fe6fb02cb336.jpg",
-    "static/media/ecommerce.JPG": "/static/media/ecommerce.0991514868aecfe12541.JPG",
-    "static/media/weather-app.JPG": "/static/media/weather-app.e78d551d9d8935cadc6d.JPG",
-    "static/media/chat-app.JPG": "/static/media/chat-app.20d212e59e499be8dd2a.JPG",
-    "index.html": "/index.html",
-    "main.1cec3bd5.css.map": "/static/css/main.1cec3bd5.css.map",
-    "main.dbd653dc.js.map": "/static/js/main.dbd653dc.js.map"
+    "main.css": "/portfolio/static/css/main.fb478fb9.css",
+    "main.js": "/portfolio/static/js/main.ec4ae6e0.js",
+    "static/media/hero-background.jpg": "/portfolio/static/media/hero-background.9430d563fe6fb02cb336.jpg",
+    "static/media/ecommerce.JPG": "/portfolio/static/media/ecommerce.0991514868aecfe12541.JPG",
+    "static/media/weather-app.JPG": "/portfolio/static/media/weather-app.e78d551d9d8935cadc6d.JPG",
+    "static/media/chat-app.JPG": "/portfolio/static/media/chat-app.20d212e59e499be8dd2a.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.fb478fb9.css.map": "/portfolio/static/css/main.fb478fb9.css.map",
+    "main.ec4ae6e0.js.map": "/portfolio/static/js/main.ec4ae6e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cec3bd5.css",
-    "static/js/main.dbd653dc.js"
+    "static/css/main.fb478fb9.css",
+    "static/js/main.ec4ae6e0.js"
   ]
 }
