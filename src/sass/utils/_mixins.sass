@@ -1,0 +1,10 @@
+@mixin tablet 
+    @media screen and (max-width: map-get($breakpoints, tab)) 
+        @content;
+    
+
+
+@mixin phone 
+    @media screen and (max-width: map-get($breakpoints, phone)) 
+        @content;
+    
